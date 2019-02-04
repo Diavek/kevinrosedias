@@ -27,7 +27,7 @@ body {
 .firstpage {
 background-image:url("http://i.imgur.com/VETXUOs.jpg");
   /*background: #71b1d9;*/
-  background-size:100%;
+  background-size:cover;
   z-index: 2;
 }
 
@@ -115,12 +115,19 @@ background-image:url("https://cdn140.picsart.com/256360403013212.png");
   height: 100vh;
   transform: skewY(-10deg);
 }
-
+/*
 .heading {
   position: absolute;
   font-size: 5vw;
   left: 26vw;
   bottom: 24vw;
+}*/
+
+.heading {
+  position: absolute;
+  font-size: 5vw;
+  left: 30vw;
+  bottom: 12vw;
 }
 
 .firstpage h1 {
