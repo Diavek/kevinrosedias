@@ -4,7 +4,7 @@
 }
 
 body {
-  height: 4300px;
+  height: 100%;
 }
 
 #app {
@@ -128,6 +128,7 @@ background-image:url("https://cdn140.picsart.com/256360403013212.png");
   font-size: 5vw;
   left: 30vw;
   bottom: 12vw;
+  font-color: black;
 }
 
 .firstpage h1 {
